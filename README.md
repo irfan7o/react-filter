@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Filtering movie with React.js and API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+![React App and 3 more pages - Personal - Microsoft_ Edge 2022-07-10 04-30-58 (online-video-cutter com) 00_00_00-00_00_30](https://user-images.githubusercontent.com/73951075/178124269-3eb30953-17c3-4787-8fb7-25f2e46d24ad.gif)
 
 In the project directory, you can run:
 
